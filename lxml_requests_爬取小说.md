@@ -33,7 +33,7 @@ for section in sections:
 		filename = section_name + contents_name[0]
 		content = '\n'.join(contents_name) + '\n' +'\n'.join(author_info) + '\n' +'\n'.join(contents) 
 
-		with open('修罗武神/%s'%filename,'w') as fp:
+		with open('修罗武神/%s.txt'%filename,'w') as fp:
 			fp.write(content)
 ```
 
