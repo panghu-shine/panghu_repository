@@ -1,2 +1,2 @@
 # panghu_repository
-none
+旁门八百，大道三千
